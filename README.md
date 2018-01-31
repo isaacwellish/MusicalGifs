@@ -15,11 +15,11 @@ To run the application on your computer:
 
 3. Open the sketch.js file within the projectMain folder in a text editor
 
-4. Enter your API keys in the variables labled "API"
+4. Enter your API keys in the variables labeled "API"
 
 5. You can now run the project on a local server and the application should work in your browser
 
-6. To calibrate threshholds for your microphone, use console.log(mic.getLevel()) to measure microphone levels and find the right thresholds for you 
+6. To calibrate thresholds for your microphone, use console.log(mic.getLevel()) to measure microphone levels and find the right thresholds for you 
 
 7. Change input words corresponding to mic levels in the high mid and lowEnergy variables at the top.
 
